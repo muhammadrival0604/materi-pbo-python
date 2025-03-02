@@ -88,9 +88,6 @@ Metode ini digunakan untuk memberikan representasi string yang mudah dibaca keti
 ### 🧑‍💻 Contoh dalam kehidupan sehari-hari:
 Ketika seseorang mendaftar ke dalam sebuah sistem, sistem akan langsung mengisi data dasar mereka seperti **nama dan tanggal lahir 📆** menggunakan constructor `__init__`. Jika kita ingin mencetak informasi pengguna tersebut, kita bisa menggunakan metode `__str__` agar data terlihat lebih rapi.
 
-Berikut daftar pustaka yang bisa digunakan sebagai referensi untuk materi OOP dalam Python:
-
----
 
 ## 📚 **Referensi**  
 1. Lutz, M. (2013). *Learning Python (5th Edition)*. O'Reilly Media.  
